@@ -1,0 +1,1 @@
+http://localhost:8080/cxftest/rest/api-docs?/url=/cxftest/rest/swagger.json
